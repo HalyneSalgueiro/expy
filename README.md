@@ -1,6 +1,6 @@
-# Exercícios em Python
+# Exercícios em Python </h1>
 
-Orientção & Objeto
+*Orientação & Objeto </h2>*
 
 * Dicionário
 * Funções
